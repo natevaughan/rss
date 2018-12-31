@@ -1,0 +1,10 @@
+feeds:
+  reddit:
+    - https://www.reddit.com/r/worldnews/.rss
+  news:
+    - https://www.npr.org/rss/rss.php
+    - https://www.npr.org/rss/rss.php?id=1039
+    - http://feeds.reuters.com/reuters/businessNews
+    - http://feeds.reuters.com/reuters/scienceNews
+    - http://feeds.bbci.co.uk/news/world/rss.xml
+
